@@ -52,7 +52,7 @@ p  {
   font-size: 190%;
 }
 div.gallery {
-  margin: 5px;
+  margin: 30px;
   border: 2px dashed DarkGrey;
   float: left;
   width: 300px;
