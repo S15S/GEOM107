@@ -67,7 +67,9 @@ div.gallery img {
 div.desc {
   padding: 40px;
   text-align: center;
+  font-family: "Arial Narrow", sans-serif;
   font-style: italic;
+  color: PowderBlue;
 }
 
 ul {
