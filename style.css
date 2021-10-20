@@ -109,3 +109,13 @@ li a:hover {
 	background-color: PowderBlue;
 }
 
+a:link: {
+	color: silver
+}
+a:visited {
+	color: DarkGray;
+}
+a:hover{
+	color: PowderBlue;
+}
+	
