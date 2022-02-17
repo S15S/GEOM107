@@ -9,14 +9,14 @@ body {
 h1 {
 	text-align: center;
 	text-transform: uppercase;
-  color: #01665e; /* I chose a dark grey colour to show emphasis of my name */
+  color: #003c30; /* I chose a dark grey colour to show emphasis of my name */
   font-family: "Arial Narrow", sans-serif;
   font-size: 300%;
 }
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 h2 {
 	text-align: center;
-	color: #01665e; /* a slightly lighter shade of grey was used for the subheading and the paragraphs because I wanted to keep within the grey shade family but to also show contrast*/
+	color: #003c30; /* a slightly lighter shade of grey was used for the subheading and the paragraphs because I wanted to keep within the grey shade family but to also show contrast*/
 	font-family: "Arial Narrow", sans-serif;
 	font-style: italic;
 	font-size: 200%
@@ -24,14 +24,14 @@ h2 {
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 p  {
   margin-left: 30px;
-  color: #01665e;/* a slightly lighter shade of grey was used for the subheading and the paragraphs because I wanted to keep within the grey shade family but to also show contrast*/
+  color: #003c30;/* a slightly lighter shade of grey was used for the subheading and the paragraphs because I wanted to keep within the grey shade family but to also show contrast*/
   font-family: "Arial Narrow", sans-serif;
   font-size: 160%;
 }
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 #Home {
 	margin-left: 30px;
- color: #8c510a;
+ color: #543005;
  text-transform: uppercase;
   font-family: "Arial Narrow", sans-serif;
   font-style: italic;
@@ -41,7 +41,7 @@ p  {
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 #AboutMe {
 	margin-left: 30px;
- color: #8c510a;
+ color: #543005;
  text-transform: uppercase; 
   font-family: "Arial Narrow", sans-serif;
   font-style: italic;
@@ -51,7 +51,7 @@ p  {
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 .aboutme {
 margin-left: 30px;
- color: #8c510a;
+ color: #543005;
  text-decoration: underline;
   font-family: "Arial Narrow", sans-serif;
   font-style: italic;
@@ -61,7 +61,7 @@ margin-left: 30px;
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 #Gallery {
 	margin-left: 30px;
- color: #8c510a;
+ color: #543005;
  text-transform: uppercase;
   font-family: "Arial Narrow", sans-serif;
   font-style: italic;
@@ -105,7 +105,7 @@ li a {
   display: block;
   font-family: "Arial Narrow", sans-serif;
   font-size: 120%;
-  color: #01665e;
+  color: #003c30;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
