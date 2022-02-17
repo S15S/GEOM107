@@ -3,20 +3,20 @@
 
 /* to format my background colour I referenced w3 school https://www.w3schools.com/css/css_background.asp*/
 body {
-	background-color: SeaShell} /* I wanted an off white for my background colour and after trial and error I chose Seashell, which I found on w3 schools colour page https://www.w3schools.com/cssref/css_colors.asp*/
+	background-color: #f6e8c3} /* I wanted an off white for my background colour and after trial and error I chose Seashell, which I found on w3 schools colour page https://www.w3schools.com/cssref/css_colors.asp*/
 
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 h1 {
 	text-align: center;
 	text-transform: uppercase;
-  color: DimGrey; /* I chose a dark grey colour to show emphasis of my name */
+  color: #01665e; /* I chose a dark grey colour to show emphasis of my name */
   font-family: "Arial Narrow", sans-serif;
   font-size: 300%;
 }
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 h2 {
 	text-align: center;
-	color: DarkGray; /* a slightly lighter shade of grey was used for the subheading and the paragraphs because I wanted to keep within the grey shade family but to also show contrast*/
+	color: #01665e; /* a slightly lighter shade of grey was used for the subheading and the paragraphs because I wanted to keep within the grey shade family but to also show contrast*/
 	font-family: "Arial Narrow", sans-serif;
 	font-style: italic;
 	font-size: 200%
@@ -24,14 +24,14 @@ h2 {
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 p  {
   margin-left: 30px;
-  color: DarkGray;/* a slightly lighter shade of grey was used for the subheading and the paragraphs because I wanted to keep within the grey shade family but to also show contrast*/
+  color: #01665e;/* a slightly lighter shade of grey was used for the subheading and the paragraphs because I wanted to keep within the grey shade family but to also show contrast*/
   font-family: "Arial Narrow", sans-serif;
   font-size: 160%;
 }
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 #Home {
 	margin-left: 30px;
- color: PowderBlue;
+ color: #8c510a;
  text-transform: uppercase;
   font-family: "Arial Narrow", sans-serif;
   font-style: italic;
@@ -41,7 +41,7 @@ p  {
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 #AboutMe {
 	margin-left: 30px;
- color: PowderBlue;
+ color: #8c510a;
  text-transform: uppercase; 
   font-family: "Arial Narrow", sans-serif;
   font-style: italic;
@@ -51,7 +51,7 @@ p  {
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 .aboutme {
 margin-left: 30px;
- color: PowderBlue;
+ color: #8c510a;
  text-decoration: underline;
   font-family: "Arial Narrow", sans-serif;
   font-style: italic;
@@ -61,7 +61,7 @@ margin-left: 30px;
 /* my heading formats were designed off of w3schools https://www.w3schools.com/css/css_selectors.asp*/
 #Gallery {
 	margin-left: 30px;
- color: PowderBlue;
+ color: #8c510a;
  text-transform: uppercase;
   font-family: "Arial Narrow", sans-serif;
   font-style: italic;
@@ -71,12 +71,12 @@ margin-left: 30px;
 /* this gallery was designed off of the w3 schools gallery code https://www.w3schools.com/css/css_image_gallery.asp*/ 
 div.gallery {
   margin: 30px;
-  border: 2px dashed DarkGrey;
+  border: 2px dashed #8c510a;
   float: left;
   width: 300px;
 }
 div.gallery:hover {
-  border: 4px solid PowderBlue; /* I wanted the border colour to highlight the blue accent colour I've chose to keep consistency*/
+  border: 4px solid #c7eae5; /* I wanted the border colour to highlight the blue accent colour I've chose to keep consistency*/
 }
 div.gallery img {
   width: 100%;
@@ -87,7 +87,7 @@ div.desc {
   text-align: center;
   font-family: "Arial Narrow", sans-serif;
   font-style: italic;
-  color: DarkGrey;
+  color: #8c510a;
 }
 /* the NavBar was designed off of the w3 schools vertical navbar code https://www.w3schools.com/css/css_navbar_vertical.asp*/
 ul {
@@ -95,35 +95,35 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: Linen;
+  background-color: #f5f5f5;
 }
 li {
   float: middle;
-  border-right: 1px solid PowderBlue;
+  border-right: 1px solid #8c510a;
 }
 li a {
   display: block;
   font-family: "Arial Narrow", sans-serif;
   font-size: 120%;
-  color: silver;
+  color: #01665e;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 li a:hover { /* I wanted the hover colour to match the little accents around the website so keep consistency so I made it PowderBlue*/
-  background-color: PowderBlue;
+  background-color: #5ab4ac;
 }
 .active { /* I wanted my navbar to show the active background colour however, it wasn't staying static and I'm not sure why*/
-	background-color: PowderBlue;
+	background-color: #5ab4ac;
 }
 /* this link format was designed off of w3 schools https://www.w3schools.com/css/css_link.asp*/
 a:link: { /* I wanted the link to be silver in colour and it doesn't seem to be working*/
-	color: silver; 
+	color: #8c510a; 
 }
 a:visited {
-	color: DarkGray;
+	color: #01665e;
 }
 a:hover{ /* I chose to add a hover to the link to keep consistency with the PowderBlue accent colour*/
-	color: PowderBlue;
+	color: #5ab4ac;
 }
 	
