@@ -95,7 +95,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #d8b365;
+  background-color: #dfc27d;
 }
 li {
   float: middle;
@@ -111,7 +111,7 @@ li a {
   text-decoration: none;
 }
 li a:hover { /* I wanted the hover colour to match the little accents around the website so keep consistency so I made it PowderBlue*/
-  background-color: #c7eae5;
+  background-color: #d8b365;
 }
 .active { /* I wanted my navbar to show the active background colour however, it wasn't staying static and I'm not sure why*/
 	background-color: #c7eae5;
