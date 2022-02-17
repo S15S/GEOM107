@@ -95,7 +95,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #f5f5f5;
+  background-color: #d8b365;
 }
 li {
   float: middle;
@@ -111,10 +111,10 @@ li a {
   text-decoration: none;
 }
 li a:hover { /* I wanted the hover colour to match the little accents around the website so keep consistency so I made it PowderBlue*/
-  background-color: #5ab4ac;
+  background-color: #c7eae5;
 }
 .active { /* I wanted my navbar to show the active background colour however, it wasn't staying static and I'm not sure why*/
-	background-color: #5ab4ac;
+	background-color: #c7eae5;
 }
 /* this link format was designed off of w3 schools https://www.w3schools.com/css/css_link.asp*/
 a:link: { /* I wanted the link to be silver in colour and it doesn't seem to be working*/
