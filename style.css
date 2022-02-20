@@ -76,7 +76,7 @@ div.gallery {
   width: 300px;
 }
 div.gallery:hover {
-  border: 4px solid #c7eae5; /* I wanted the border colour to highlight the blue accent colour I've chose to keep consistency*/
+  border: 6px solid #c7eae5; /* I wanted the border colour to highlight the blue accent colour I've chose to keep consistency*/
 }
 div.gallery img {
   width: 100%;
